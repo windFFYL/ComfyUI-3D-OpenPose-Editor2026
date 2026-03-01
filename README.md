@@ -1,4 +1,4 @@
-# ComfyUI OpenPose Editor (DocKr Optimized)
+# ComfyUI-3D-OpenPose-Editor2026
 
 
 这是一个为 ComfyUI 设计的3D OpenPose 编辑器节点。在DocKr的OpenPose Editor的基础上增加了3D模式，支持实时匹配画布大小、一键匹配上游图片尺寸、3D姿态调整、自动提示词匹配等功能，原DocKr 2D模式保留，可自由切换。
