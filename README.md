@@ -14,6 +14,9 @@
     *   支持 `Alt + 左键` 拖拽画布。
     *   支持鼠标滚轮平滑缩放。
 *   **工作流深度集成**：
+<img width="716" height="673" alt="QQ20260301-211649" src="https://github.com/user-attachments/assets/f8726dc0-7198-4045-b1dc-ffe96687441d" />
+<img width="741" height="821" alt="QQ20260301-211748" src="https://github.com/user-attachments/assets/e7b4b9f0-c9d5-4c15-9cbd-9ccf74811255" />
+<img width="1307" height="709" alt="QQ20260301-211845" src="https://github.com/user-attachments/assets/214df6d5-6ffc-44d5-b147-def42e5734ff" />
 
 ## 🎮 3D 模式操作指南
 
